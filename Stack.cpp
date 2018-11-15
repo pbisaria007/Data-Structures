@@ -1,6 +1,4 @@
-//
-// Created by Shubham Bhandari on 02-05-2018.
-//
+
 template<typename t>
 class Stack {
 private:
